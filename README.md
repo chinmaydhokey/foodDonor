@@ -2,6 +2,8 @@
 
 FoodShare is a web application that connects food donors with NGOs to reduce food waste and help those in need. The platform allows donors to list surplus food items and NGOs to claim these listings for distribution.
 
+## PPT Link : https://www.canva.com/design/DAGkcFq911w/rZ04f_3TCHh-lOu0U1Ms1Q/edit?utm_content=DAGkcFq911w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Features
 
 - **User Authentication**
